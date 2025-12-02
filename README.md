@@ -15,11 +15,16 @@ This system enables missionaries to develop critical skills including empathy, c
 - **Session Memory**: Full conversation history maintained throughout each training session
 - **Streamlit-based UI**: Clean, intuitive interface for easy navigation
 
+## Documentation
+
+For detailed information about the project, including setup, application logic, and how to add new content, please see the [docs](./docs/README.md) directory.
+
 ## Project Structure
 
 ```
 role-play/
 ├── app.py                          # Main Streamlit application
+├── docs/                           # Project documentation
 ├── requirements.txt                # Python dependencies
 ├── roleplay-content/              # Complete training content package
 │   ├── personas/                  # Student persona descriptions (3 personas)
